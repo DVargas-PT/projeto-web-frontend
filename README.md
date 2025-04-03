@@ -2,6 +2,9 @@
 
 ## Acesse o Site - Descarte Consciente 🚀
 
+Clique no link abaixo para visitar o meu site no GitHub Pages:
+[🌐 Visite o nosso site!](https://DVargas-PT.github.io/projeto-web-frontend/)
+
 ## Descrição do Projeto
  O website contém diversas funcionalidades,sendo elas:
 
