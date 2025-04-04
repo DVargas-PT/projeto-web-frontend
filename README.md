@@ -39,8 +39,11 @@ ODS Atendida
 - Desenvolver um layout web usando HTML/CSS e JavaScript
 - Promover um serviço voltado para a comunidade e/ou um objetivo sustentável.
 
-## Contato
-danilovargas@alunos.utfpr.edu.br
-[LinkeDin](www.linkedin.com/in/danilo-silva-vargas-b407512aa)
-(14)99677-5571
+## 📞 Contato 📧
+Caso tenha dúvidas ou deseje mais informações sobre o projeto, você pode entrar em contato comigo através dos canais abaixo:
+
+- **E-mail:** [danilovargas@alunos.utfpr.edu.br](mailto:danilovargas@alunos.utfpr.edu.br)
+- **LinkedIn:** [Danilo Silva Vargas](https://www.linkedin.com/in/danilo-silva-vargas-b407512aa/)
+
+<a href="https://www.linkedin.com/in/danilo-silva-vargas-b407512aa/"><img src="imagens/foto_eu.jpg" alt="Foto de Danilo Silva Vargas" width="200"></a>
 
